@@ -54,18 +54,19 @@ Frontend runs on: http://localhost:5173
 
 ### Deployed Links
 
-Frontend: [https://movie-recommendation-web-app-gamma.vercel.app](https://movie-recommendation-web-app-gamma.vercel.app/)
-Backend: h[ttps://movie-recommendation-backend-1dri.onrender.com](https://movie-recommendation-backend-1dri.onrender.com)
+- Frontend: [https://movie-recommendation-web-app-gamma.vercel.app](https://movie-recommendation-web-app-gamma.vercel.app/)
+- Backend: h[ttps://movie-recommendation-backend-1dri.onrender.com](https://movie-recommendation-backend-1dri.onrender.com)
 
 ### Note on API Integration
 
-The app was initially designed to fetch recommendations dynamically using OpenAI or Gemini API.
-Gemini: New Google AI Studio accounts currently do not have access to any text generation models via v1beta, which cannot be fixed instantly.
-OpenAI: API usage requires billing, which was not enabled during development.
+- The app was initially designed to fetch recommendations dynamically using OpenAI or Gemini API.
+- Gemini: New Google AI Studio accounts currently do not have access to any text generation models via v1beta, which cannot be fixed instantly.
+- OpenAI: API usage requires billing, which was not enabled during development.
 
 As a result, the app currently returns a static list of 5 movie recommendations per input.
 
 Author
 
 Shreya Gupta
+
 
