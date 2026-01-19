@@ -61,11 +61,12 @@ http://localhost:5173
 
 ## Deployed Links
 
-Frontend: (to be added)  
-Backend: (to be added)
+Frontend: https://movie-recommendation-web-app-gamma.vercel.app
+Backend: https://movie-recommendation-backend-1dri.onrender.com
 
 ---
 
 ## Author
 
 Shreya Gupta
+
